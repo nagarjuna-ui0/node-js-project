@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Harini Gudipati <harini.gudipati@cbeyond.net>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nagarjuna-ui0/node-js-project",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
