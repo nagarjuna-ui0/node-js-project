@@ -15,3 +15,15 @@ I need to learn Node js
 - git pull [download changes]
 - git commit -m "message" [Commit changes into branch]
 - git push origin master [publish changes into server @ master branch]
+
+## Installation
+- Git
+- Node.js
+- - Express JS
+- MongoDB
+- Bower
+- - Angular JS
+- - Bootstrap
+- - Jquery
+
+
