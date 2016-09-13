@@ -9,7 +9,8 @@ I need to learn Node js
 
 ##Git Commands
 
-- git clone git@github.com:ashu1920/First-angular-app.git [download repository to the current directory]
+- git clone git@github.com:nagarjuna-ui0/node-js-project.git [download repository to the current directory] 
+- git status [check changes]
 - git add filename / -A[Add single file or all files changes into git]
 - git pull [download changes]
 - git commit -m "message" [Commit changes into branch]
