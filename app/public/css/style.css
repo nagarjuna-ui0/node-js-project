@@ -5,3 +5,9 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
+.item {
+	display: none;
+}
+.l1 {
+	display: block;
+}
